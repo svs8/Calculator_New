@@ -1,1 +1,8 @@
 Welcome to the world of calculations
+
+Addition:
+
+A=10
+B=20
+
+Add=A+B
