@@ -21,3 +21,11 @@ A=10
 B=20
 
 Mul=A*B
+
+
+Division:
+
+A=10
+B=20
+
+Div=A/B
