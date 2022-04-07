@@ -6,3 +6,11 @@ A=10
 B=20
 
 Add=A+B
+
+
+Substraction:
+
+A=10
+B=20
+
+sub=A-B
